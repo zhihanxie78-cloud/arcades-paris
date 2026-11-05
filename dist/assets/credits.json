@@ -1,0 +1,114 @@
+[
+  {
+    "key": "vivienne",
+    "title": "Galerie Vivienne",
+    "error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/b/b0/GalerieVivienne1.jpg"
+  },
+  {
+    "key": "vero",
+    "title": "Galerie Véro-Dodat",
+    "file": "assets/vero.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Galerie_Vero-Dodat.JPG",
+    "license": "Public domain",
+    "artist": "Gabrielle Robillard",
+    "description": "Photo intérieur Galerie Véro-Dodat"
+  },
+  {
+    "key": "panoramas",
+    "title": "Passage des Panoramas",
+    "error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/a/ad/Passage_des_Panoramas.JPG"
+  },
+  {
+    "key": "opera",
+    "title": "Passage de l'Opéra",
+    "file": "assets/opera.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenue_de_l%27Op%C3%A9ra_Paris.jpg",
+    "license": "CC0",
+    "artist": "Jebulon",
+    "description": "Avenue de l'Opéra, Paris, France."
+  },
+  {
+    "key": "caire",
+    "title": "Passage du Caire",
+    "error": "429 Client Error: Too many requests (f061ab2) for url: https://upload.wikimedia.org/wikipedia/commons/a/ad/Passage_des_Panoramas.JPG"
+  },
+  {
+    "key": "baudelaire",
+    "title": "Charles Baudelaire",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "fourier",
+    "title": "Charles Fourier",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "haussmann",
+    "title": "Georges-Eugène Haussmann",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "grandville",
+    "title": "Jean Ignace Isidore Gérard",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "daguerre",
+    "title": "Louis Daguerre",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "wat­teau",
+    "title": "Pilgrimage to Cythera",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "paris",
+    "title": "Pont Neuf",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "fashion",
+    "title": "The Swing (Fragonard)",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "interior",
+    "title": "The Embarkation for Cythera",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "robert",
+    "title": "Hubert Robert",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "iron",
+    "title": "Les Halles",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "exhibition",
+    "title": "Exposition Universelle (1867)",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "barricade",
+    "title": "The Barricade (painting)",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "reading",
+    "title": "Jean-Baptiste-Siméon Chardin",
+    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+    "key": "benjamin",
+    "title": "Walter Benjamin",
+    "file": "assets/benjamin.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Walter_Benjamin_vers_1928.jpg",
+    "license": "Public domain",
+    "artist": "Photo d'identité sans auteur, <b>1928</b>",
+    "description": "<b>Walter Benjamin en 1928</b>"
+  }
+]
