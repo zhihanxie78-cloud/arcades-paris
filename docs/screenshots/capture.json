@@ -1,0 +1,30 @@
+{
+  "viewport": {
+    "width": 1600,
+    "height": 1000
+  },
+  "source": "Actual project HTML rendered in desktop Chrome; screenshots are not UI mockups.",
+  "files": [
+    "atlas.webp",
+    "benjamin.webp",
+    "choice.webp",
+    "dossier.webp",
+    "gallery.webp",
+    "home.webp",
+    "library.webp",
+    "map.webp",
+    "memory.webp",
+    "people.webp",
+    "read.webp"
+  ],
+  "counts": {
+    "parts": 7,
+    "entries": 51,
+    "convolutes": 36,
+    "paragraphs": 2207,
+    "places": 35,
+    "people": 42,
+    "groups": 15
+  },
+  "browser_errors": []
+}
