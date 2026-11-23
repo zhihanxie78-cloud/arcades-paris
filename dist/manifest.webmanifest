@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "拱廊街计划 · 与本雅明同行",
+  "short_name": "拱廊街计划",
+  "start_url": "game.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#233b31",
+  "theme_color": "#233b31",
+  "lang": "zh-CN",
+  "description": "文学剧情游戏与可视化阅读导览",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "prefer_related_applications": false
+}

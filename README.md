@@ -6,7 +6,7 @@
 
 **一座可以阅读的巴黎，一场与朋友并肩而行的漫游。**
 
-[打开阅读网站](https://arcades-paris-reading-atlas.moderncrumb2.chatgpt.site/) · [进入独立游戏](https://arcades-paris-reading-atlas.moderncrumb2.chatgpt.site/game.html) · [浏览图像画廊](https://arcades-paris-reading-atlas.moderncrumb2.chatgpt.site/#gallery)
+[打开阅读网站](https://zhihanxie78-cloud.github.io/arcades-paris/dist/) · [进入独立游戏](https://zhihanxie78-cloud.github.io/arcades-paris/dist/game.html) · [浏览图像画廊](https://zhihanxie78-cloud.github.io/arcades-paris/dist/#gallery)
 
 </div>
 
@@ -22,8 +22,8 @@
 
 | 入口 | 可以做什么 | 直接访问 |
 | --- | --- | --- |
-| **可视化阅读导览** | 翻阅全书目录与主题卷轴，在地图、地点、人物和图像之间检索线索，记录阅读札记 | [阅读网站](https://arcades-paris-reading-atlas.moderncrumb2.chatgpt.site/) |
-| **独立剧情游戏** | 以本雅明朋友的身份走过巴黎，听见不同人的处境，通过对话与选择推进十二站路线 | [与本雅明同行](https://arcades-paris-reading-atlas.moderncrumb2.chatgpt.site/game.html) |
+| **可视化阅读导览** | 翻阅全书目录与主题卷轴，在地图、地点、人物和图像之间检索线索，记录阅读札记 | [阅读网站](https://zhihanxie78-cloud.github.io/arcades-paris/dist/) |
+| **独立剧情游戏** | 以本雅明朋友的身份走过巴黎，听见不同人的处境，通过对话与选择推进十二站路线 | [与本雅明同行](https://zhihanxie78-cloud.github.io/arcades-paris/dist/game.html) |
 
 网站公开访问，**不需要 ChatGPT 账号**。导览与游戏保留各自的入口，读者可以自由选择先读书还是先游玩。
 
@@ -165,3 +165,8 @@ docs/
 - [code-video-showcase](https://github.com/Moessif/code-video-showcase)：项目介绍视频采用的代码渲染制作流程。
 
 源码在本仓库公开供查看与交流。书籍摘引、历史图像、外部资料与其他素材各有其来源及适用条件，仓库目前未为全部内容统一指定许可；使用具体素材前，请查看对应说明。
+
+
+## 添加到桌面
+
+游戏页面左下角提供“添加到桌面”入口。支持安装提示的浏览器可点击“安装游戏”；iPhone或iPad请在Safari的分享菜单中选择“添加到主屏幕”。安卓和电脑也可从Chrome或Edge菜单安装。页面会说明不同设备的步骤。添加后仍需联网，浏览器本地进度不会自动跨设备同步。
